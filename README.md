@@ -15,7 +15,11 @@ The company’s main database is structured into four key tables, each containin
 **Numerical Data:**
 
 - **YEAR:** Calendar year of the sales data
+
 - **ITEM CODE:** Unique numerical identifier for each product
+
 - **RETAIL SALES:** Dollar value of direct consumer sales
+
 - **RETAIL TRANSFERS:** Dollar value of merchandise moved between retail locations
+
 - **WAREHOUSE SALES:** Dollar value of sales from warehouse inventory
