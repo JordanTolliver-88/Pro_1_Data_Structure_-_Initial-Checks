@@ -1,6 +1,6 @@
 # Data Structure & Initial Checks
 **Montgomery County Market Performance Trends**
-The company’s main database is structured into four key tables, each containing critical data related to warehouse and retail sales. These tables are designed to provide a comprehensive view of product sales, inventory movement, and supplier information across various time periods. Below is an overview of each table in the database, with a total row count of X records.
+The company’s main database is structured into four key tables, each containing critical data related to warehouse and retail sales. These tables are designed to provide a comprehensive view of product sales, inventory movement, and supplier information across various time periods. Below is an overview of each table in the database, with a total row count of **307,646** records.
 
 **String Data:**
 
