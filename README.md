@@ -5,8 +5,11 @@ The company’s main database is structured into four key tables, each containin
 **String Data:**
 
 **MONTH:** Month name when sales occurred (e.g., January, February)
+
 **SUPPLIER:** Name of the vendor or supplier providing the items
+
 **ITEM DESCRIPTION:** Detailed text description of the product
+
 **ITEM TYPE:** Category or classification of the product
 
 **Numerical Data:**
